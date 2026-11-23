@@ -74,7 +74,7 @@ See `findings/security-findings.md` for further testing details and security rec
 
 ## Repository Structure
 
-text
+```text
 aws-iam-access-control-lab/
 ├── README.md
 ├── policies/
@@ -85,6 +85,7 @@ aws-iam-access-control-lab/
 └── screenshots/
     └── (project evidence)
 
+```
 
 ## Documentation Note
 
