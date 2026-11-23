@@ -83,6 +83,7 @@ aws-iam-access-control-lab/
 ├── findings/
 │   └── security-findings.md
 └── screenshots/
+    └── (project evidence)
 ```
 
 ## Documentation Note
