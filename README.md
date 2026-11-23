@@ -73,6 +73,7 @@ All permission results were evaluated using the IAM Policy Simulator. No live S3
 See `findings/security-findings.md` for further testing details and security recommendations.
 
 
+
 ## Repository Structure
 
 ```text
@@ -84,11 +85,8 @@ aws-iam-access-control-lab/
 ├── findings/
 │   └── security-findings.md
 └── screenshots/
-    └── (project evidence)
 ```
 
-
-```
 
 ## Documentation Note
 
